@@ -23,7 +23,7 @@ To contribute, simply fork this repository, make your changes, and create a pull
 ```shell
 git clone https://github.com/satilpereira/resources.git
 ```
--Create a new branch to work on your changes using the git checkout -b command.
+- Create a new branch to work on your changes using the git checkout -b command.
 ```shell
 git checkout -b my-new-feature
 ```
